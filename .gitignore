@@ -4,9 +4,7 @@ __pycache__/
 venv/
 .env
 
-# Ignore data and model files if large
-data/
-embeddings/
+
 
 # System files
 .DS_Store
